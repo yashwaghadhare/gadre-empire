@@ -1,0 +1,18 @@
+# Gadre Empire
+
+> Gadre Empire is a MahaRERA-registered (P52800055538) project of shops and 1 & 2 BHK flats by M/s. Savkar & Company, in the centre of Sakharpa market, Sangameshwar taluka, Ratnagiri district, Maharashtra, India.
+
+## Key facts
+- Developer: M/s. Savkar & Company
+- Address: Town Bazaar, Kondgaon (Sakharpa), Tal. Sangameshwar, Dist. Ratnagiri 415801
+- Coordinates: 16.9841685, 73.6919731
+- Offer: shops, 1 BHK flats, 2 BHK flats
+- Location: 500 m from the Ratnagiri–Kolhapur highway; school, hospital and bus stand nearby
+- Features: Vastu-compliant homes, 24x7 water, CCTV, lift with power backup, covered parking for flats, large four-wheeler parking, children's play area and garden, shopping passage, large windows for natural light
+- Contact: +91 88307 86262, +91 70707 99711, WhatsApp https://wa.me/918830786262
+- Prices and sizes: shared on call or at the office
+
+## Pages
+- [Home](https://yashwaghadhare.github.io/gadre-empire/): project overview, location, buying steps, FAQ
+- [FAQ](https://yashwaghadhare.github.io/gadre-empire/#faq): common questions
+- [Location](https://yashwaghadhare.github.io/gadre-empire/#location): map and distances
