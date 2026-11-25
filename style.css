@@ -563,3 +563,14 @@ body.menu-open .nav{background:var(--bg);color:var(--ink)}
 .faq summary::after{content:"+";color:var(--blue)}
 .faq details[open] summary::after{content:"–"}
 .faq details p{margin:12px 0 0;color:var(--grey);font-size:15.5px;max-width:680px}
+
+/* mobile: remove empty space under hero image */
+@media (max-width:700px){
+  .hero{min-height:0;padding-bottom:0}
+  .state{margin-top:0}
+}
+@media (max-width:700px){
+  /* pin earlier: the zoom starts while the building is still on screen */
+  .state{margin-top:-55svh}
+  .state-pin{justify-content:flex-start;padding-top:62svh;pointer-events:none}
+}
