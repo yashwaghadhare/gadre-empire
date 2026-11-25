@@ -574,3 +574,9 @@ body.menu-open .nav{background:var(--bg);color:var(--ink)}
   .state{margin-top:-55svh}
   .state-pin{justify-content:flex-start;padding-top:62svh;pointer-events:none}
 }
+
+/* phones: stop the parallax drift so photos and captions never overlap */
+@media (max-width:700px){
+  .stag{gap:26px 12px}
+  .ph{transform:none!important}
+}
