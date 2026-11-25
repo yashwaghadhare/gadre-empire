@@ -585,3 +585,11 @@ body.menu-open .nav{background:var(--bg);color:var(--ink)}
 .foot .credit{margin:10px 0 0;font-size:10.5px;letter-spacing:.1em;opacity:.7}
 .foot .credit a{border-bottom:1px solid currentColor;padding-bottom:1px;transition:opacity .2s}
 .foot .credit a:hover{opacity:.7}
+
+/* FAQ desktop: heading left, questions right (no empty half) */
+@media (min-width:981px){
+  .faq{display:grid;grid-template-columns:1fr 1.3fr;gap:clamp(30px,5vw,90px);align-items:start}
+  .faq .sec-h{margin:0;position:sticky;top:110px}
+  .faq-l{max-width:none}
+  .faq details p{max-width:none}
+}
